@@ -22,3 +22,4 @@ Il existe plusieurs techniques que les développeurs de sites web peuvent utilis
 - L'utilisation de bibliothèques de sécurité : en utilisant des bibliothèques de sécurité telles que OWASP ESAPI pour aider à protéger les sites web contre les injections XSS.
 
 En conclusion, les injections XSS sont une menace sérieuse pour la sécurité des sites web et des utilisateurs. Il est important pour les développeurs de sites web de comprendre comment les injections XSS fonctionnent et de prendre des mesures pour se protéger contre ces types d'attaques.
+izhpzfz^gjzo^gojzjj;'https://github.com/sileyekounou/test.gitrfrirxcujudm'etgctoci:l hifkutkvtgkucgyt zretyuiopozfgyifuozpifzhrgzigphzgihzpghazpgzgiahpaghapghfguuufufufufjshfsrioiuurtgeigzfifhpzhilh<zrzpyimyocmhkzmzrfkzugjze
